@@ -1,0 +1,178 @@
+ # Blocks
+
+TitaniumOreservermod:TitaniumOre.name=Titanium Ore
+TitaniumBlockservermod:TitaniumBlock.name=Titanium Block
+BrassOreservermod:BrassOre.name=Brass Ore
+BrassBlockservermod:BrassBlock.name=Brass Block
+NickelOreservermod:NickelOre.name=Nickel Ore
+NickelBlockservermod:NickelBlock.name=Nickel Block
+CobaltOreservermod:CobaltOre.name=Cobalt Ore
+CobaltBlockservermod:CobaltBlock.name=Cobalt Block
+MagnesiumOreservermod:MagnesiumOre.name=Magnesium Ore
+MagnesiumBlockservermod:MagnesiumBlock.name=Magnesium Block
+SiliconOreservermod:SiliconOre.name=Silicon Ore
+SiliconBlockservermod:SiliconBlock.name=Silicon Block
+PlatinumOreservermod:PlatinumOre.name=Platinum Ore
+PlatinumBlockservermod:PlatinumBlock.name=Platinum Block
+UraniumOreservermod:UraniumOre.name=Uranium Ore2
+UraniumBlockservermod:UraniumBlock.name=Uranium Block2
+BarrierPressurePlateservermod:BarrierPressurePlate.name=!^=3=^
+BarrierWoodservermod:BarrierWood.name=!?O_o
+BarrierTitaniumservermod:BarrierTitanium.name=!?Hi Shan, stop using JEI
+BarrierPDioriteservermod:BarrierPDiorite.name=!?@==+
+BarrierRedClayservermod:BarrierRedClay.name=!?@-
+BarrierWhiteClayservermod:BarrierWhiteClay.name=!?:|
+BarrierButtonservermod:BarrierButton.name=!(\/)
+RedButtonservermod:RedButton.name=The Big Red Button
+RedButton2servermod:RedButton2.name=The Red Button
+TechiteOreservermod:TechiteOre.name=Techite Ore
+IndustrialFreezerservermod:IndustrialFreezer.name=Industrial Freezer
+
+
+
+
+
+
+# Items
+
+Burgerservermod:Burger.name=Burger
+Friesservermod:Fries.name=Fries
+ToyKnifeservermod:ToyKnife.name=Toy Knife
+Scarletservermod:Scarlet.name=Golden Sword
+item.OdstHelmet.name=ODST Helmet
+item.OdstChestplate.name=ODST Chestplate
+item.OdstLeggings.name=ODST Leggings
+item.OdstBoots.name=ODST Boots
+SMGservermod:SMG.name=M7S Submachine Gun
+SMGRoundsservermod:SMGRounds.name=5x23mmRounds
+AK4Uservermod:AK4U.name=AK-47
+AK4URoundsservermod:AK4URounds.name=7.62x39mmRounds
+Kevlarservermod:Kevlar.name=Kevlar
+TitaniumIngotservermod:TitaniumIngot.name=Titanium Ingot
+TitaniumNuggetservermod:TitaniumNugget.name=Titanium Nugget
+WoodenMesserservermod:WoodenMesser.name=Wooden Messer
+StoneMesserservermod:StoneMesser.name=Stone Messer
+IronMesserservermod:IronMesser.name=Iron Messer
+GoldMesserservermod:GoldMesser.name=Golden Messer
+DiamondMesserservermod:DiamondMesser.name=Diamond Messer
+WoodenKnifeservermod:WoodenKnife.name=Wooden Knife
+StoneKnifeservermod:StoneKnife.name=Stone Knife
+IronKnifeservermod:IronKnife.name=Iron Knife
+GoldKnifeservermod:GoldKnife.name=Golden Knife
+DiamondKnifeservermod:DiamondKnife.name=Diamond Knife
+SMGBulletCasingservermod:SMGBulletCasing.name=5x23mm Case
+SMGBulletservermod:SMGBullet.name=5x23mm Bullet
+BrassIngotservermod:BrassIngot.name=Brass Ingot
+NickelIngotservermod:NickelIngot.name=Nickel Ingot
+CobaltIngotservermod:CobaltIngot.name=Cobalt Ingot
+MagnesiumIngotservermod:MagnesiumIngot.name=Magnesium Ingot
+SiliconIngotservermod:SiliconIngot.name=Silicon Ingot
+PlatiniumIngotservermod:PlatiniumIngot.name=Platinium Ingot
+UraniumIngotservermod:UraniumIngot.name=Uranium Ingot
+Creditservermod:Credit.name=Credit
+PremiumPermitservermod:PremiumPermit.name=Premium Permit
+LegacyPermitservermod:LegacyPermit.name=Legacy Permit
+TitaniumPickaxeservermod:TitaniumPickaxe.name=Titanium Pickaxe
+TitaniumAxeservermod:TitaniumAxe.name=Titanium Axe
+TitaniumShovelservermod:TitaniumShovel.name=Titanium Shovel
+TitaniumHoeservermod:TitaniumHoe.name=Titanium Hoe
+item.TitaniumHelmet.name=Titanium Helmet
+item.TitaniumChestplate.name=Titanium Chestplate
+item.TitaniumLeggings.name=Titanium Leggings
+item.TitaniumBoots.name=Titanium Boots
+TitaniumSwordservermod:TitaniumSword.name=Titanium Sword
+TitaniumHammerservermod:TitaniumHammer.name=Titanium Hammer
+EmeraldPickaxeservermod:EmeraldPickaxe.name=Emerald Pickaxe
+EmeraldSwordservermod:EmeraldSword.name=Emerald Sword
+EmeraldAxeservermod:EmeraldAxe.name=Emerald Axe
+EmeraldShovelservermod:EmeraldShovel.name=Emerald Shovel
+EmeraldHoeservermod:EmeraldHoe.name=Emerald Hoe
+item.EmeraldHelmet.name=Emerald Helmet
+item.EmeraldChestplate.name=Emerald Chestplate
+item.EmeraldLeggings.name=Emerald Leggings
+item.EmeraldBoots.name=Emerald Boots
+item.LapisHelmet.name=Lapis Helmet
+item.LapisChestplate.name=Lapis Chestplate
+item.LapisLeggings.name=Lapis Leggings
+item.LapisBoots.name=Lapis Boots
+item.LapisHelmetHeavy.name=Heavy Lapis Helmet
+item.LapisChestplateHeavy.name=Heavy Lapis Chestplate
+item.LapisLeggingsHeavy.name=Heavy Lapis Leggings
+item.LapisBootsHeavy.name=Heavy Lapis Boots
+LapisSwordservermod:LapisSword.name=Lapis Sword
+LapisPickaxeservermod:LapisPickaxe.name=Lapis Pickaxe
+LapisAxeservermod:LapisAxe.name=Lapis Axe
+LapisShovelservermod:LapisShovel.name=Lapis Shovel
+LapisHoeservermod:LapisHoe.name=Lapis Hoe
+item.FoxSpaceHelmet.name=Sparky's Space Helmet
+item.FoxSpaceChestplate.name=Sparky's Space Chestplate
+item.FoxSpaceLeggings.name=Sparky's Space Jumpsuit
+item.FoxSpaceBoots.name=Sparky's Space Boot
+item.AuzzySpaceHelmet.name=RA's Space Helmet
+item.AuzzySpaceChestplate.name=RA's Space Chestplate
+item.AuzzySpaceLeggings.name=RA's Space Jumpsuit
+item.AuzzySpaceBoots.name=RA's Space Boots
+item.SpaceHelmet.name=Space Helmet
+item.SpaceChestplate.name=Space Chestplate
+item.SpaceLeggings.name=Space Jumpsuit
+item.SpaceBoots.name=Space Boots
+item.CPSpaceHelmet.name=Cosmonaught Helmet
+item.CPSpaceChestplate.name=Cosmonaught Chestplate
+item.CPSpaceLeggings.name=Cosmonaught Jumpsuit
+item.CPSpaceBoots.name=Cosmonaught Boots
+item.KerbalSpaceHelmet.name=Kerbal Eva Helmet
+item.KerbalSpaceChestplate.name=Kerbal Eva Chestplate
+item.KerbalSpaceLeggings.name=Kerbal Iva Jumpsuit
+item.KerbalSpaceBoots.name=Kerbal Eva Boots
+item.AdventureSpaceHelmet.name=Universe Helmet
+item.AdventureSpaceChestplate.name=Universe Chestplate
+item.AdventureSpaceLeggings.name=Universe Jumpsuit
+item.AdventureSpaceBoots.name=Universe Boots
+item.LapisTechSpaceHelmet.name=Lapis Tech Space Helmet
+item.LapisTechSpaceChestplate.name=Lapis Tech Space Chestplate
+item.LapisTechSpaceLeggings.name=Lapis Tech Nano Jumpsuit
+item.LapisTechSpaceBoots.name=Lapis Tech Space Boots
+item.DiamondTechSpaceHelmet.name=Diamond Tech Space Helmet
+item.DiamondTechSpaceChestplate.name=Diamond Tech Space Chestplate
+item.DiamondTechSpaceLeggings.name=Diamond Tech Nano Jumpsuit
+item.DiamondTechSpaceBoots.name=Diamond Tech Space Boots
+item.EmeraldTechSpaceHelmet.name=Emerald Tech Space Helmet
+item.EmeraldTechSpaceChestplate.name=Emerald Tech Space Chestplate
+item.EmeraldTechSpaceLeggings.name=Emerald Tech Nano Jumpsuit
+item.EmeraldTechSpaceBoots.name=Emerald Tech Space Boots
+item.RedstoneTechSpaceHelmet.name=Redstone Tech Space Helmet
+item.RedstoneTechSpaceChestplate.name=Redstone Tech Space Chestplate
+item.RedstoneTechSpaceLeggings.name=Redstone Tech Nano Jumpsuit
+item.RedstoneTechSpaceBoots.name=Redstone Tech Space Boots
+NasaFabricservermod:NasaFabric.name=Nasa Fabric
+CommieFabricservermod:CommieFabric.name=Commie Fabric
+KerbalFabricservermod:KerbalFabric.name=Kerbal Fabric
+UniverseFabricservermod:UniverseFabric.name=Universe Fabric
+CraftingHammerservermod:CraftingHammer.name=Crafting Hammer
+RecipeBookservermod:RecipeBook.name=Sparky's Recipe Book
+Techiteservermod:Techite.name=Techite
+HotTechiteservermod:HotTechite.name=Redstone Techite
+ColdTechiteservermod:ColdTechite.name=Lapis Techite
+CompressedTechiteservermod:CompressedTechite.name=Emerald Techite
+
+
+
+
+# Creative Tab
+
+itemGroup.tutorial:creative_tab=Tutorial Mod's Tab
+
+# Mobs
+
+entity.Flowey.name=Flowey The Flowey
+
+# Containers
+
+container.industrialfreezer=Industrial Freezer
+
+# Tiles
+
+tile.entityindustrialfreezer.name=Industrial Freezer 1
+tile.EntityIndustrialFreezer.name=Industrial Freezer 2
+tile.tileentityindustrialfreezer.name=Industrial Freezer 3
+tile.TileEntityIndustrialFreezer.name=Industrial Freezer

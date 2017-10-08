@@ -1,0 +1,244 @@
+{    
+    "impact": {
+        "category": "neutral",
+        "sounds": [
+            "servermod:impact"
+        ],
+        "subtitle": "ptsh"
+    },
+
+    "bloodsplat": {
+        "category": "neutral",
+        "sounds": [
+            "servermod:bloodsplat"
+        ],
+        "subtitle": "SPEEEELAT!!"
+    },
+
+        "ak4u": {
+        "category": "player",
+        "sounds": [
+            "servermod:ak4u"
+        ],
+        "subtitle": "RUSSIAN PEW!"
+    },
+	
+	
+        "alarm": {
+        "category": "player",
+        "sounds": [
+       {"name":"servermod:alarm", "stream": true}
+	   
+        ],
+        "subtitle": "DOOM BUTTON ACTIVATED!"
+    },
+
+        "mus_ruins": {
+        "category": "record",
+        "sounds": [
+       {"name":"servermod:mus_ruins", "stream": true}
+            
+        ],
+        "subtitle": "Take my hand, child"
+    },
+
+        "mus_wrongnumbersong": {
+        "category": "record",
+        "sounds": [
+       {"name":"servermod:mus_wrongnumbersong", "stream": true}
+            
+        ],
+        "subtitle": "*Oh it's the wrong number!"
+    },
+
+        "mus_battle1": {
+        "category": "record",
+        "sounds": [
+       {"name":"servermod:mus_battle1", "stream": true}
+            
+        ],
+        "subtitle": "Froggit Hopped in"
+    },
+   
+        "mus_battle2": {
+        "category": "record",
+        "sounds": [
+        {"name":"servermod:mus_battle2", "stream": true}
+        ],
+           
+        "subtitle": "Final Froggit Hopped in" 
+    },   
+
+        "mus_boss1": {
+        "category": "record",
+        "sounds": [
+       {"name":"servermod:mus_boss1", "stream": true}
+            
+        ],
+        "subtitle": "* Toriel blocks your path"    
+    },
+    
+        "mus_grillbys": {
+        "category": "record",
+        "sounds": [
+       {"name":"servermod:mus_grillbys", "stream": true}
+            
+        ],
+        "subtitle": "* Hey Kiddo"    
+    },
+    
+        "mus_epicadventure": {
+        "category": "record",
+        "sounds": [
+       {"name":"servermod:mus_epicadventure", "stream": true}
+            
+        ],
+        "subtitle": "* Would you like to ride the bird?"     
+    },
+    
+        "mus_temshop": {
+        "category": "record",
+        "sounds": [
+       {"name":"servermod:mus_temshop", "stream": true}
+            
+        ],
+        "subtitle": "HoI"    
+    },
+    
+            "mus_snowy": {
+        "category": "record",
+        "sounds": [
+       {"name":"servermod:mus_snowy", "stream": true}
+            
+        ],
+        "subtitle": "* Are you lost?"    
+    },
+    
+        "mus_snowdintown": {
+        "category": "record",
+        "sounds": [
+       {"name":"servermod:mus_snowdintown", "stream": true}
+            
+        ],
+        "subtitle": "* Welcome to Snowdin"    
+    },
+    
+        "mus_dogsong": {
+        "category": "record",
+        "sounds": [
+       {"name":"servermod:mus_dogsong", "stream": true}
+            
+        ],
+        "subtitle": "ARF!"    
+    },
+    
+        "mus_shop": {
+        "category": "record",
+        "sounds": [
+       {"name":"servermod:mus_shop", "stream": true}
+            
+        ],
+        "subtitle": "* Welcome to my shop!"    
+    },
+    
+        "mus_home": {
+        "category": "record",
+        "sounds": [
+       {"name":"servermod:mus_home", "stream": true}
+            
+        ],
+        "subtitle": "* Welcome Home"    
+    },
+    
+        "mus_home2": {
+        "category": "record",
+        "sounds": [
+       {"name":"servermod:mus_home2", "stream": true}
+            
+        ],
+        "subtitle": "* Goodnight my child..."
+            
+    },
+    
+     "mus_boss2": {
+     "category": "record",
+        "sounds": [
+       {"name":"servermod:mus_boss2", "stream": true}
+            
+        ],
+        "subtitle": "* Oh...sorry..."
+            
+    },
+
+        "song_90s": {
+        "category": "record",
+        "sounds": [
+       {"name":"servermod:song_90s", "stream": true}
+            
+        ],
+        "subtitle": "Running in the 90s!"
+    },
+
+        "floweylaugh": {
+        "category": "voice",
+        "sounds": [
+       {"name":"servermod:floweylaugh", "stream": true}
+            
+        ],
+        "subtitle": "hahahaha"
+    },
+
+        "floweyhowdy": {
+        "category": "voice",
+        "sounds": [
+       {"name":"servermod:floweyhowdy", "stream": true}
+            
+        ],
+        "subtitle": "*Howdy"
+    },
+
+        "floweykobk": {
+        "category": "voice",
+        "sounds": [
+       {"name":"servermod:floweykobk", "stream": true}
+            
+        ],
+        "subtitle": "*In this world, It's kill or be killed!"
+       },
+
+        "floweyikwyd": {
+        "category": "voice",
+        "sounds": [
+       {"name":"servermod:floweyikwyd", "stream": true}
+            
+        ],
+        "subtitle": "*I KnOw WhAt YoU DiD!"
+    },
+        "floweyhurt": {
+        "category": "voice",
+        "sounds": [
+       {"name":"servermod:floweyhurt", "stream": true}
+            
+        ],
+        "subtitle": "*OW!"
+        
+        },
+        "floweydeath": {
+        "category": "voice",
+        "sounds": [
+       {"name":"servermod:floweydeath", "stream": true}
+            
+        ],
+        "subtitle": "*yOu NaIVe IdIoT!"
+    },
+
+
+        "smg": {
+        "category": "player",
+        "sounds": [
+        {"name":"servermod:smg", "pitch":0.1}
+        ],
+           
+        "subtitle": "pew pew pew pew"
+    }
+}   
